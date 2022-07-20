@@ -238,6 +238,18 @@ Here is a list of some of the most popular Ethereum node providers, feel free to
     - Unlimited TX fee and infinite Gas for sending transactions
     - Fastest getting of the new block and reading of the blockchain
     - The best price per API call guarantee
+- [**NOWNodes**](https://nownodes.io)
+  - [Docs](https://documenter.getpostman.com/view/13630829/TVmFkLwy)
+  - Features
+    - Access to 50+ blockchain full nodes
+    - 5K free daily requests
+    - No rate limits
+    - Backup solution
+    - Testnet and Archived nodes
+    - Automated updates
+    - Technical support 24/7
+    - Immediate Deployment
+    - SQS
 
 ## Further reading {#further-reading}
 
